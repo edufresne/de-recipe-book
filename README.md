@@ -19,4 +19,6 @@ To add a new recipe, simply add a recipe where you want and name it `<Recipe Nam
 You can let me do it or you can run:
 ```
 git pull
+mkdocs build
+firebase deploy
 ```
