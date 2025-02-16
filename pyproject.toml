@@ -1,0 +1,9 @@
+[project]
+name = "de-recipe-book"
+version = "0.1.0"
+description = "A simple recipe book for all of the recipes me and my wife make that are bomb enough to write down. Also an experiment to see if I can teach her how to use Git with no coding experience."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mkdocs-material>=9.5.50",
+]
