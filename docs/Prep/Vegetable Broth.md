@@ -1,5 +1,6 @@
 # 🥕 Vegetable Broth
 A good way to use up old frozen veggie scraps. Convert them into veggie broth which can be used for soups, rice dishes etc.
+
 ### Ingredients
 - 1 Large Freezer Bag of Veggie Scraps
 - 3 Bay Leaves

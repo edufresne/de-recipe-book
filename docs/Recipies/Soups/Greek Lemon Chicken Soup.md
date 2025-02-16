@@ -1,4 +1,5 @@
 # 🇬🇷🍋 Greek Lemon Chicken Soup
+<img src="../../images/greek-lemon-soup1.jpeg" alt="Greek Lemon Soup 1" width="100%">
 Avgolemono as they call in Greece. [Original recipe here](https://skinnyspatula.com/avgolemono-greek-lemon-chicken-soup/).
 ### Rating
 ⭐️⭐️⭐️⭐️ 4/5

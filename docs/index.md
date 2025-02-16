@@ -1,5 +1,5 @@
 # Eric & Dharti's Recipe Book
-A simple recipe book for all of the recipes me and my wife make that are bomb enough to write down. Also an experiment to see if I can teach her how to use Git with no coding experience.
+A simple recipe book for all of the recipes me and my wife make that are bomb enough to write down. Also an experiment to see if I can teach her how to use Git with no coding experience. See the recipe book at https://ericdharti.com
 ### How to Run
 Download latest changes if both of us are working on it
 ```
@@ -18,6 +18,7 @@ To add a new recipe, simply add a recipe where you want and name it `<Recipe Nam
 ### How to Publish
 You can let me do it or you can run:
 ```
-git commit -a -m "My Changes"
-git push
+git pull
+mkdocs build    
+firebase deploy
 ```
