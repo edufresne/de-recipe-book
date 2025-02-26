@@ -32,4 +32,4 @@ Dharti's word famous dutch babies. Can be made savoury or sweet and is a nice tr
 1. Sprinkle some jam on top of the batter
 1. Pour in the rest of the batter
 1. Cook in oven for 20-25 minutes (or until risen)
-1. Top with anything you want. Here we did blood orange slices, raspberry compote, and a dusting of icing sugar.
+1. Top with anything you want. Here we did blood orange slices, blueberry compote, and a dusting of icing sugar.
