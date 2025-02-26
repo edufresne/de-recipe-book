@@ -5,7 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
+
+# Build
 site/
 
 # Virtual environments
 .venv
+
+# OS Specific
+.DS_Store
