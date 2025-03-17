@@ -1,7 +1,12 @@
 site_name: Eric & Dharti Recipe Book
 site_url: https://recipebook.de
+markdown_extensions:
+  - toc:
+      permalink: true
 theme:
   name: material
+  features:
+    - navigation.expand
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
