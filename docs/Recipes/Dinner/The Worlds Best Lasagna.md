@@ -34,6 +34,6 @@ Original recipe [here](https://www.allrecipes.com/recipe/23600/worlds-best-lasag
 1. Reduce heat and simmer for up to 1 hour
 1. In a mizing bowl, mix the ricotta with 1 egg and fresh chopped parsley and set aside
 1. Once sauce is done start layering by putting a base of the sauce. Then add lasagna noodles, ricotta, sauce, mozarella, parmesean. Doing 3 layers and then ending with a topping of sauce, mozzarella, and parmesean. 
-1. Cook in a preheated oven at 375F for 50min
-1. Take out and let cool
+1. Cook in a preheated oven at 375F for 25min covered with tin-foil and then 25 min uncovered
+1. Take out and let cool for approx 15min
 1. Sprinkle some parsley on top and serve
