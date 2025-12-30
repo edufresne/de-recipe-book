@@ -16,3 +16,6 @@ site/
 # OS Specific
 .DS_Store
 .idea
+
+# Project Specific
+firebase-debug.log
